@@ -1,11 +1,11 @@
 # 📚 When Double Bond Reacts – Notes Repository
-# 📚 When Double Bond Reacts – Notes Repository
 
 [![YouTube](https://img.shields.io/badge/YouTube-When%20Double%20Bond%20Reacts-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](http://www.youtube.com/@Doublebondreacts)
-![Notes](https://img.shields.io/badge/Notes-Chapter--wise-blue?style=for-the-badge)
+![Notes](https://img.shields.io/badge/Notes-Chapter%20Wise-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Educational-green?style=for-the-badge)
 
 Official notes and resources accompanying the lectures published on the **When Double Bond Reacts** YouTube channel.
+---
 
 Welcome to the official notes repository of **When Double Bond Reacts**.
 
